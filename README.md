@@ -33,7 +33,7 @@ Here’s an example of how the preferences might look:
     "translate_tabs_to_spaces": true,
     "theme": "Material-Theme-Darker.sublime-theme"
 }
-
+```
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
