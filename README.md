@@ -36,7 +36,7 @@ Here’s an example of how the preferences might look:
 ```
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SurajSia/my-license/blob/main/README.md) file for details.
 
 ---
 
